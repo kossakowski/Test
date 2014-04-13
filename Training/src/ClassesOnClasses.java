@@ -41,6 +41,7 @@ static public String dateFromMili (long miliseconds) {
 		System.out.println(Kajtek.name);
 		System.out.println(JoinStrings("£ukasz", "czeœæ"," jestes super"));
 		System.out.println(dateFromMili(2000));
+		System.out.println("Now you can acces it in the repository!");
 	}
 }
 /**	class dateFromMili {
